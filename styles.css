@@ -1,0 +1,65 @@
+body {
+    background-color: #616b75;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  header {
+    background-color: #002F64; /* Azul marinho Inter de Milão */
+  }
+  
+  header .nav-link {
+    color: white;
+  }
+  
+  header .nav-link:hover {
+    color: #151616;
+  }
+  
+  h1, h2, h3, h4 {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  p, h5, h6 {
+    color: #002F64; /* Azul marinho */
+  }
+
+  li {
+    color: #002F64;
+  }
+  
+  .section-title {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .section-title img {
+    margin-bottom: 15px;
+  }
+  
+  .contact-section {
+    background-color: #002F64;
+    color: black;
+    padding: 40px 0;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+  }
+
+  .contact-section p {
+    color: white;
+  }
+  
+  footer {
+    background-color: #616b75;
+    color: black;
+    text-align: center;
+    padding: 20px 0;
+  }
+
+.py-3 {
+    position: fixed;
+    width: 100%;
+}
+
+  
